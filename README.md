@@ -22,7 +22,7 @@
 </div>
 <br>
 
-### Developing skills
+### Developing skills:
 
 <div style="display: inline_block">
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -37,7 +37,7 @@
 </div>
 <br>
 
-### Interested in learning
+### Interested in learning:
 <div style="display: inline_block">
     <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
     <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
