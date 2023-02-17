@@ -1,5 +1,5 @@
 
-### Hello, I'm Marcos Paulo, student of Computer Science and IT Technician ✌️
+### Hello, I'm Marcos Paulo, student majoring in Computer Science and IT Technician ✌️
 <Br>
 
 ![Marcos Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosPauloo&show_icons=true&theme=dracula)
